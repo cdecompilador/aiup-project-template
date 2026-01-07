@@ -1,0 +1,40 @@
+# Claude Code local settings
+.claude/settings.local.json
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Editor-specific
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Add your project-specific ignores below
+# Example for different tech stacks:
+
+# Node.js
+# node_modules/
+# dist/
+# .env
+
+# Python
+# __pycache__/
+# *.pyc
+# .venv/
+# venv/
+
+# Rust
+# target/
+# Cargo.lock
+
+# Java
+# *.class
+# target/
+# .gradle/
+
+# Build outputs
+# build/
+# out/
